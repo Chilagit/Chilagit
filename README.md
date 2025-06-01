@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h1 align = "center">
-<a href="https://github.com/Chilaqui"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FFFF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=;Hello+there+!;+I'm+Héctor+Rodríguez+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://github.com/Chilagit"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FFFF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=;Hello+there+!;+I'm+Héctor+Rodríguez+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
